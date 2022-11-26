@@ -115,7 +115,8 @@ input {
     width: 155px;
     height: 155px;
     border-radius: 50%;
-    border:2px solid #8ec2ce;
+    border:3px solid #8ec2ce;
+    background: rgba(142,194,206, 0.3);
 }
 
 .main2 {
